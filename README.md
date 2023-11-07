@@ -296,7 +296,8 @@ public class MainActivity extends AppCompatActivity {
 
 
 
-![Screenshot (116)](https://github.com/syifaaurellia/DeretBilanganFibonacci/assets/115867244/3ce9415d-bf44-45fc-a8eb-cdf5734ffd3c)
+![fibonacci](https://github.com/iki020904/Fibonacci-Muhammad-rifqi-aziz-312210111/assets/115804283/d3ec2ccb-3512-46a4-9de9-d66979194c39)
+
 
 
 
